@@ -36,6 +36,7 @@ const eventsDatabase = {
   "3-2-2026": ["Entrevista do Dirigente com os Diretores Escolares na Ure - Suzano"],
   "5-2-2026": ["Reunião do Dirigente com os Diretores - Etec Ferraz de Vasconcelos"],
   "6-2-2026": ["Atribuição projeto Páscoa - ZEIKICHI FUKUOKA "],
+  "4-2-2026": ["Reunião do Dirigente com os chefes de setores "],
 };
 
 function renderCalendar() {
