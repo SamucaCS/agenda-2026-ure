@@ -33,11 +33,17 @@ const weekDays = [
 ];
 
 const eventsDatabase = {
-  "3-2-2026": ["Entrevista do Dirigente com os Diretores Escolares na Ure - Suzano"],
-  "5-2-2026": ["Reunião do Dirigente com os Diretores - Etec Ferraz de Vasconcelos", 
-  "Visita do SEINTEC ao Morato"],
-  "6-2-2026": ["Atribuição projeto Páscoa - ZEIKICHI FUKUOKA ",
-  "Visita do SEINTEC a escola PAULO AMERICO PAGANUCCI PROF "],
+  "3-2-2026": [
+    "Entrevista do Dirigente com os Diretores Escolares na Ure - Suzano",
+  ],
+  "5-2-2026": [
+    "Reunião do Dirigente com os Diretores - Etec Ferraz de Vasconcelos",
+    "Visita do SEINTEC ao Morato",
+  ],
+  "6-2-2026": [
+    "Atribuição projeto Páscoa - ZEIKICHI FUKUOKA ",
+    "Visita do SEINTEC a escola PAULO AMERICO PAGANUCCI PROF ",
+  ],
   "4-2-2026": ["Reunião do Dirigente com os chefes de setores "],
 };
 
