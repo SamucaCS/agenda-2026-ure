@@ -1,12 +1,12 @@
-
 :root {
-  --bg-color: #fdfbf7;
-  --sidebar-bg: #f2f0e9;
+
+  --bg-color: #fdfbf7; 
+  --sidebar-bg: #f2f0e9; 
   --white: #ffffff;
   --text-primary: #4a5d4f; 
   --text-secondary: #8b9b90; 
-  --accent-green: #b5d8c3; 
-  --accent-dark: #6b8e78; 
+  --accent-green: #b5d8c3;
+  --accent-dark: #6b8e78;
   --highlight: #e8f3eb; 
 }
 
@@ -32,7 +32,7 @@ body {
   max-width: 1200px;
   height: 85vh;
   border-radius: 32px;
-  box-shadow: 0 20px 40px rgba(74, 93, 79, 0.05);
+  box-shadow: 0 20px 40px rgba(74, 93, 79, 0.05); 
   display: flex;
   overflow: hidden;
 }
