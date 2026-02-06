@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agenda Diretoria 2026</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="main-container">
+      <aside class="sidebar">
+        <div class="brand">
+          <h1>Diretoria<br />de Ensino</h1>
+          <span class="year-badge">2026</span>
+        </div>
+<!-- teste -->
+        <div class="today-info">
+          <p id="selectedDateDisplay">Selecione uma data</p>
+          <div class="events-container" id="eventList">
+            <p class="empty-msg">Nenhum evento agendado.</p>
+          </div>
+        </div>
+      </aside>
+
+      <main class="calendar-content">
+        <header class="calendar-header">
+          <h2 id="currentMonthYear">Janeiro 2026</h2>
+          <div class="nav-controls">
+            <button id="prevMonth" class="btn-nav">
+              <svg
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path d="M15 18l-6-6 6-6" />
+              </svg>
+            </button>
+            <button id="nextMonth" class="btn-nav">
+              <svg
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path d="M9 18l6-6-6-6" />
+              </svg>
+            </button>
+          </div>
+        </header>
+
+        <div class="calendar-grid">
+          <div class="weekday">Dom</div>
+          <div class="weekday">Seg</div>
+          <div class="weekday">Ter</div>
+          <div class="weekday">Qua</div>
+          <div class="weekday">Qui</div>
+          <div class="weekday">Sex</div>
+          <div class="weekday">Sáb</div>
+
+          <div class="days-container" id="daysContainer"></div>
+        </div>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
