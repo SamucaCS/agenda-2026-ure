@@ -1,13 +1,15 @@
 :root {
-
-  --bg-color: #fdfbf7; 
-  --sidebar-bg: #f2f0e9; 
+  /* Paleta Pastel Minimalista */
+  --bg-color: #fdfbf7; /* Bege muito suave */
+  --sidebar-bg: #f2f0e9; /* Bege um pouco mais escuro para lateral */
   --white: #ffffff;
-  --text-primary: #4a5d4f; 
-  --text-secondary: #8b9b90; 
-  --accent-green: #b5d8c3;
-  --accent-dark: #6b8e78;
-  --highlight: #e8f3eb; 
+
+  --text-primary: #4a5d4f; /* Verde escuro acinzentado (para texto) */
+  --text-secondary: #8b9b90; /* Verde cinza claro */
+
+  --accent-green: #b5d8c3; /* Verde Pastel (Menta) */
+  --accent-dark: #6b8e78; /* Verde Folha Suave */
+  --highlight: #e8f3eb; /* Fundo de destaque muito claro */
 }
 
 * {
@@ -32,11 +34,12 @@ body {
   max-width: 1200px;
   height: 85vh;
   border-radius: 32px;
-  box-shadow: 0 20px 40px rgba(74, 93, 79, 0.05); 
+  box-shadow: 0 20px 40px rgba(74, 93, 79, 0.05); /* Sombra suave esverdeada */
   display: flex;
   overflow: hidden;
 }
 
+/* --- Lateral (Sidebar) --- */
 .sidebar {
   width: 30%;
   background-color: var(--sidebar-bg);
@@ -96,6 +99,7 @@ body {
   font-size: 0.9rem;
 }
 
+/* --- Calendário Principal --- */
 .calendar-content {
   width: 70%;
   padding: 3rem;
@@ -142,6 +146,7 @@ body {
   color: var(--text-primary);
 }
 
+/* Grid do Calendário */
 .calendar-grid {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
@@ -163,7 +168,7 @@ body {
   grid-column: 1 / -1;
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  grid-template-rows: repeat(6, 1fr);
+  grid-template-rows: repeat(6, 1fr); /* 6 linhas fixas para estabilidade */
   gap: 10px;
 }
 
@@ -207,6 +212,7 @@ body {
   pointer-events: none;
 }
 
+/* Mobile */
 @media (max-width: 768px) {
   .main-container {
     flex-direction: column;
@@ -221,6 +227,6 @@ body {
     padding: 1.5rem;
   }
   .days-container {
-    height: 350px; 
+    height: 350px; /* Altura fixa para mobile */
   }
 }
