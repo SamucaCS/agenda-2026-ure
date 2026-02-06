@@ -32,7 +32,7 @@ const weekDays = [
   "Sexta",
   "Sábado",
 ];
-
+// teste
 const eventsDatabase = {
   "3-2-2026": ["Entrevista do Dirigente com os Diretores Escolares na Ure - Suzano"],
   "5-2-2026": ["Reunião do Dirigente com os Diretores - Etec Ferraz de Vasconcelos"],
