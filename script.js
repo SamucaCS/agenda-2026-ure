@@ -45,6 +45,7 @@ const eventsDatabase = {
     "Visita do SEINTEC a escola PAULO AMERICO PAGANUCCI PROF ",
   ],
   "4-2-2026": ["Reunião do Dirigente com os chefes de setores "],
+  "18-2-2026": ["Reunião com os psicólogos das 12hs as 18hs. Local: URE Suzano - Sala de Reuniões. "],
 };
 
 function renderCalendar() {
