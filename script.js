@@ -36,6 +36,7 @@ const eventsDatabase = {
   "3-2-2026": [
     "Entrevista do Dirigente com os Diretores Escolares na Ure - Suzano",
   ],
+  "4-2-2026": ["Reunião do Dirigente com os chefes de setores "],
   "5-2-2026": [
     "Reunião do Dirigente com os Diretores - Etec Ferraz de Vasconcelos",
     "Visita do SEINTEC ao Morato",
@@ -44,11 +45,23 @@ const eventsDatabase = {
     "Atribuição projeto Páscoa - ZEIKICHI FUKUOKA ",
     "Visita do SEINTEC a escola PAULO AMERICO PAGANUCCI PROF ",
   ],
-  "4-2-2026": ["Reunião do Dirigente com os chefes de setores "],
-  "18-2-2026": ["Reunião com os psicólogos das 12hs as 18hs. Local: URE Suzano - Sala de Reuniões. "],
+
   "13-2-2026": ["Orientação Técnica para o ponto focal da Educação Especial. "],
-  "26-2-2026": [" Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Zeikichi Fukuoka - Escolas de Suzano"],
-  "27-2-2026": [" Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Prof. Edir do Couto Rosa - Escolas de Ferraz de Vasconcelos."],
+  "18-2-2026": [
+    "Reunião com os psicólogos das 12hs as 18hs. Local: URE Suzano - Sala de Reuniões. ",
+  ],
+  "20-2-2026": [
+    " Visita do SEINTEC a escola ANTONIO VALDEMAR GALO VEREADOR",
+  ],
+   "23-2-2026": [
+    " Visita do SEINTEC a escola DAVID JORGE CURI PROF",
+  ],
+  "26-2-2026": [
+    " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Zeikichi Fukuoka - Escolas de Suzano",
+  ],
+  "27-2-2026": [
+    " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Prof. Edir do Couto Rosa - Escolas de Ferraz de Vasconcelos.",
+  ],
 };
 
 function renderCalendar() {
