@@ -43,7 +43,7 @@ const eventsDatabase = {
   ],
   "6-2-2026": [
     "Atribuição projeto Páscoa - ZEIKICHI FUKUOKA ",
-    "Visita do SEINTEC a escola PAULO AMERICO PAGANUCCI PROF ",
+    "Visita do SEINTEC a escola PAULO AMERICO PAGANUCCI PROF Processo SEI(015.00109363/2026-89)",
   ],
 
   "13-2-2026": ["Orientação Técnica para o ponto focal da Educação Especial. "],
@@ -51,11 +51,9 @@ const eventsDatabase = {
     "Reunião com os psicólogos das 12hs as 18hs. Local: URE Suzano - Sala de Reuniões. ",
   ],
   "20-2-2026": [
-    " Visita do SEINTEC a escola ANTONIO VALDEMAR GALO VEREADOR",
+    " Visita do SEINTEC a escola ANTONIO VALDEMAR GALO VEREADOR Processo SEI(015.00151678/2026-29)",
   ],
-   "23-2-2026": [
-    " Visita do SEINTEC a escola DAVID JORGE CURI PROF",
-  ],
+   
   "26-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Zeikichi Fukuoka - Escolas de Suzano",
   ],
@@ -146,7 +144,6 @@ nextBtn.addEventListener("click", () => {
   renderCalendar();
 });
 
-// Inicialização
 renderCalendar();
 
 updateSidebar(1, 0, 2026);
