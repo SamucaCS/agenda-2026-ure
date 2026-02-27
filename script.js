@@ -53,9 +53,14 @@ const eventsDatabase = {
   "20-2-2026": [
     " Visita do SEINTEC a escola ANTONIO VALDEMAR GALO VEREADOR Processo SEI(015.00151678/2026-29)",
   ],
+
+  "25-2-2026": [
+    " Visita do SEINTEC a escola Agela Sueli Pontes Processo Processo SEI(015.00159827/2026-06)",
+  ],
    
   "26-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Zeikichi Fukuoka - Escolas de Suzano",
+     "Visita do SEINTEC a escola JACQUES YVES COUSTEAU COMANDANTE ",
   ],
   "27-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Prof. Edir do Couto Rosa - Escolas de Ferraz de Vasconcelos.",
