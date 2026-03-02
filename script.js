@@ -60,7 +60,7 @@ const eventsDatabase = {
    
   "26-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Zeikichi Fukuoka - Escolas de Suzano",
-     "Visita do SEINTEC a escola JACQUES YVES COUSTEAU COMANDANTE ",
+     "Visita do SEINTEC a escola JACQUES YVES COUSTEAU COMANDANTE - processo SEI 015.00178420/2026-70",
   ],
   "27-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Prof. Edir do Couto Rosa - Escolas de Ferraz de Vasconcelos.",
