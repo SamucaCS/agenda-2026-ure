@@ -65,6 +65,12 @@ const eventsDatabase = {
   "27-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Prof. Edir do Couto Rosa - Escolas de Ferraz de Vasconcelos.",
   ],
+  "3-3-2026": [
+    " Visita do SEINTEC a escola David Jorge Curi.",
+  ],
+  "4-3-2026": [
+    " Visita do SEINTEC a escola Carlos Moltaine.",
+  ],
 };
 
 function renderCalendar() {
