@@ -71,6 +71,12 @@ const eventsDatabase = {
   "4-3-2026": [
     " Visita do SEINTEC a escola Carlos Moltaine.",
   ],
+  "12-3-2026": [
+    "Formação Conviva 2026 - Escolas de Suzano Local: E.E Zeikichi Fukuoka - das 9h às 17hs",
+  ],
+  "13-3-2026": [
+    "Formação Conviva 2026 - Escolas de Suzano Local: E.E Edir do Couto Rosa - das 9h às 17hs",
+  ],
 };
 
 function renderCalendar() {
