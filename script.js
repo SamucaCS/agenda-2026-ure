@@ -57,20 +57,19 @@ const eventsDatabase = {
   "25-2-2026": [
     " Visita do SEINTEC a escola Agela Sueli Pontes Processo Processo SEI(015.00159827/2026-06)",
   ],
-   
+
   "26-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Zeikichi Fukuoka - Escolas de Suzano",
-     "Visita do SEINTEC a escola JACQUES YVES COUSTEAU COMANDANTE - processo SEI 015.00178420/2026-70",
+    "Visita do SEINTEC a escola JACQUES YVES COUSTEAU COMANDANTE - processo SEI 015.00178420/2026-70",
   ],
   "27-2-2026": [
     " Congressos Técnicos JEESP/2026 das 08h às 17h, na EE Prof. Edir do Couto Rosa - Escolas de Ferraz de Vasconcelos.",
   ],
-  "3-3-2026": [
-    " Visita do SEINTEC a escola David Jorge Curi.",
-  ],
-  "4-3-2026": [
-    " Visita do SEINTEC a escola Carlos Moltaine.",
-  ],
+  "3-3-2026": [" Visita do SEINTEC a escola David Jorge Curi."],
+  "4-3-2026": [" Visita do SEINTEC a escola Carlos Moltaine."],
+  "9-3-2026": [" Visita do SEINTEC a escola Antonio Vereador Galo."],
+  "11-3-2026": [" Visita do SEINTEC a escola Sebastião Pereira Vidal."],
+
   "12-3-2026": [
     "Formação Conviva 2026 - Escolas de Suzano Local: E.E Zeikichi Fukuoka - das 9h às 17hs",
   ],
