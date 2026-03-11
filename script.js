@@ -68,7 +68,10 @@ const eventsDatabase = {
   "3-3-2026": [" Visita do SEINTEC a escola David Jorge Curi."],
   "4-3-2026": [" Visita do SEINTEC a escola Carlos Moltaine."],
   "9-3-2026": [" Visita do SEINTEC a escola Antonio Vereador Galo."],
-  "11-3-2026": [" Visita do SEINTEC a escola Sebastião Pereira Vidal - Processo sei 015.00213305/2026-59."],
+  "11-3-2026": [
+    " Visita do SEINTEC a escola Sebastião Pereira Vidal - Processo sei 015.00213305/2026-59.",
+    " Visita do SEINTEC a escola Euglides Igesca.",
+  ],
 
   "12-3-2026": [
     "Formação Conviva 2026 - Escolas de Suzano Local: E.E Zeikichi Fukuoka - das 9h às 17hs",
