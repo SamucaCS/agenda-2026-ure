@@ -81,6 +81,7 @@ const eventsDatabase = {
   ],
   "16-3-2026": ["Visita do SEINTEC a escola Joviano Satler"],
   "19-3-2026": ["Visita do SEINTEC a escola Zeikichi Fukuoka"],
+  "20-3-2026": ["Visita do SEINTEC a escola Justino Marcodes Rangel"],
   "24-3-2026": ["Visita do SEINTEC a escola Antonio Vereador Garcia"],
 };
 
