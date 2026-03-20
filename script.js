@@ -79,9 +79,9 @@ const eventsDatabase = {
   "13-3-2026": [
     "Formação Conviva 2026 - Escolas de Suzano Local: E.E Edir do Couto Rosa - das 9h às 17hs",
   ],
-  "16-3-2026": [
-    "Visita do SEINTEC a escola Joviano Satler",
-  ],
+  "16-3-2026": ["Visita do SEINTEC a escola Joviano Satler"],
+  "19-3-2026": ["Visita do SEINTEC a escola Zeikichi Fukuoka"],
+  "24-3-2026": ["Visita do SEINTEC a escola Antonio Vereador Garcia"],
 };
 
 function renderCalendar() {
